@@ -1,6 +1,14 @@
 {
-    name: "foreverglory/heroku",
-    require: {
+    "name": "foreverglory/heroku",
+    "authors": [
+        {
+            "name": "ForeverGlory",
+            "email": "foreverglory@qq.com",
+            "homepage": "http://foreverglory.me"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0",
         "symfony/symfony": "~3.0"
     }
 }
