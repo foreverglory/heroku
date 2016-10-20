@@ -1,0 +1,6 @@
+{
+    name: "foreverglory/heroku",
+    require: {
+        "symfony/symfony": "~3.0"
+    }
+}
